@@ -1,5 +1,6 @@
 import disnake as discord
 from disnake.ext import commands
+import os
 
 intents = discord.Intents.default()
 intents.members = True
