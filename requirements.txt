@@ -1,1 +1,1 @@
-py-cord==2.5.0
+disnake==2.9.1
